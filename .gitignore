@@ -1,0 +1,7 @@
+# Temp folders & config files.
+/.vscode
+/node_modules
+.eslintrc.json
+.jshintrc
+
+
