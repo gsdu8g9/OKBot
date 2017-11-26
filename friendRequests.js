@@ -17,7 +17,7 @@ let bot = async () => {
     console.log("Авторизовались..");
 
     const friendRequest = await browser.newPage();    
-    await friendRequest.goto('https://ok.ru/profile/570557266775/friendRequests');
+    await friendRequest.goto('https://ok.ru/profile/YOUR_ID_PAGE/friendRequests');
     await friendRequest.waitFor(5000);
     console.log("Зашли на страницу с заявками в друзья..");
     await friendRequest.reload();
