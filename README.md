@@ -15,7 +15,7 @@ OKBot - Позволит вам оставаться всегда быть он�
 
 ## Usage
 
-Startup command line or terminal and write next command:
+Startup command line or terminal and write next command: <br>
   Usage **index.js**
   1. `npm install`
   2. `node index.js`
